@@ -64,6 +64,9 @@ width="100%">
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+<!--贡献速度-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FPGAmaster-wyc&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
+
 
 <!-- just img 大力士图片 -->
 <div align="center" >
