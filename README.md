@@ -1,5 +1,5 @@
 <!-- 星球-->
-</div>
+<div>
 <img src="https://github.com/FPGAmaster-wyc/self-introduction/blob/main/FPGAmaster.gif?raw=true">
 
 <h4 align="center">👀 访客数 👀</h4>
@@ -7,6 +7,7 @@
 </div>
 
 <!-- metrics 基础资料 -->
+<div>
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
 <a href="https://i.postimg.cc/vBYPKw3T/image.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
 <a href="https://twitter.com/yachaung76073"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
@@ -14,7 +15,7 @@
 <a href="https://www.zhihu.com/people/ai-yun-dong-geng-ai-ni"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
 <a href="https://www.zhihu.com/people/ai-yun-dong-geng-ai-ni"><img src="https://img.shields.io/badge/Tencent%20QQ-%23EB1923?logo=tencentqq&logoColor=white" /></a>&emsp;
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=代码可以不会写，但逼格一定要有;hello+word+!&center=true&size=20"> </p> 
+<p align="center" float="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=代码可以不会写，但逼格一定要有;hello+word+!&center=true&size=20"> </p> 
 </div>
 
 <!--Line跑码线-->
