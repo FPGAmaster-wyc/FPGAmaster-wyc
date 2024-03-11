@@ -89,6 +89,10 @@ width="100%">
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![Static Badge](https://img.shields.io/badge/Git%20%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6-%23F05032?logo=Git&logoColor=white)
 
+<div align="center" >
+  
+ ![部署](https://img.shields.io/badge/部署-quartus-blue.svg) ![部署](https://img.shields.io/badge/部署-vivado-FF1010.svg)
+
 <!-- just img 结尾图片 -->
 <img src="https://github.com/FPGAmaster-wyc/self-introduction/blob/main/jiewei.png" /></div>
 </div>
