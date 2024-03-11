@@ -68,14 +68,13 @@ width="100%">
 <!--贡献速度-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FPGAmaster-wyc&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 
-
+### ⚡ 我的技术栈 | My Tech Stack ⚡
 <!-- just img 大力士图片 -->
 <div align="center" >
 <img src="https://github.com/FPGAmaster-wyc/self-introduction/blob/main/man.png" width="250" height="250" />
   
 <!--  skill badge 技能徽章 -->
-![verilog Badge](https://img.shields.io/badge/Verilog-3?style=plastic&logo=velog&logoColor=16dad4)
-![SystemVerilog Badge](https://img.shields.io/badge/SystemVerilog-5?style=plastic&logo=vega&logoColor=16dad4&color=ffffff)
+![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
@@ -91,7 +90,12 @@ width="100%">
 
 <div align="center" >
   
- ![部署](https://img.shields.io/badge/部署-quartus-blue.svg) ![部署](https://img.shields.io/badge/部署-vivado-FF1010.svg)
+ ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff)
+
+
+<div align="center" >
+
+ ![ModelSim](http://img.shields.io/badge/-ModelSim-green.svg)
 
 <!-- just img 结尾图片 -->
 <img src="https://github.com/FPGAmaster-wyc/self-introduction/blob/main/jiewei.png" /></div>
