@@ -20,7 +20,7 @@
   <div>&nbsp;</div>
 
 
-<p align="center" float="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=代码可以不会写，但逼格一定要有;hello+word+!&center=true&size=20"> </p> 
+<p align="center" float="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=代码可以不会写，但逼格一定要有;hello+world+!&center=true&size=20"> </p> 
 </div>
 
 <!--Line跑码线-->
