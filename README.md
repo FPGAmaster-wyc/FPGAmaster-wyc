@@ -2,9 +2,11 @@
 <div>
 <img src="https://github.com/FPGAmaster-wyc/self-introduction/blob/main/FPGAmaster.gif?raw=true">
 
-<h4 align="center">👀 访客数 👀</h4>
+<!-- <h4 align="center">👀 访客数 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/FPGAmaster-wyc/count.svg" alt="FPGAmaster-wyc :: Visitor's Count" /></p>
 </div>
+
+--!>
 
 <div>
 <!-- metrics 基础资料 -->
